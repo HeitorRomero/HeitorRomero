@@ -74,7 +74,7 @@ Estudei a viabilidade do uso de Redes Inteligentes em comunidades rurais, invest
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorromero-67a6b23a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-romero-67a6b23a9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hpardinhoromero@gmail.com)
 
 ---
