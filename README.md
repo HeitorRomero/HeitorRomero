@@ -10,7 +10,7 @@
 
 **Computer Engineering Student @ UFGD** · Dourados, MS, Brazil
 
-I'm passionate about the intersection of **IoT, Embedded Systems, and Smart Grids** — areas where hardware and connectivity come together to solve real-world problems. Currently in my 3rd semester, I'm focused on building practical projects and deepening my knowledge in embedded development and communication protocols.
+I'm passionate about the intersection of **IoT, Embedded Systems, and Smart Grids** — areas where hardware and connectivity come together to solve real-world problems. Currently in my 4rd semester, I'm focused on building practical projects and deepening my knowledge in embedded development and communication protocols.
 
 ---
 
@@ -50,7 +50,7 @@ Studied the feasibility of Smart Grids in rural communities, investigating how *
 
 **Estudante de Engenharia de Computação @ UFGD** · Dourados, MS, Brasil
 
-Sou apaixonado pela interseção entre **IoT, Sistemas Embarcados e Smart Grids** — áreas onde hardware e conectividade se unem para resolver problemas reais. Atualmente no 3º semestre, estou focado em construir projetos práticos e aprofundar meu conhecimento em desenvolvimento embarcado e protocolos de comunicação.
+Sou apaixonado pela interseção entre **IoT, Sistemas Embarcados e Smart Grids** — áreas onde hardware e conectividade se unem para resolver problemas reais. Atualmente no 4º semestre, estou focado em construir projetos práticos e aprofundar meu conhecimento em desenvolvimento embarcado e protocolos de comunicação.
 
 ---
 
