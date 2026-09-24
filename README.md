@@ -23,9 +23,9 @@ Studied the feasibility of Smart Grids in rural communities, investigating how *
 
 ## 🚧 What I'm working on
 
-- **IDVerde** — Flutter app for plant species identification (UFGD extension project, coordinated by Profa. Priscila Marques Kai)
-- **Qubit Simulation** — Python project exploring quantum computing basics, using a custom Qubit class and Qiskit
-- **MS Municipalities Graph** *(coursework, Teoria dos Grafos)* — Python + NetworkX app that reads a distance matrix from CSV, runs Dijkstra's algorithm to find the shortest path between municipalities in Mato Grosso do Sul, and visualizes the result with matplotlib
+- **IDVerde** *(private repo — UFGD extension project)* — Flutter app for plant species identification (coordinated by Profa. Priscila Marques Kai)
+- **[Qubit Simulation](https://github.com/HeitorRomero/Qubit)** — Python project exploring quantum computing basics, using a custom Qubit class and Qiskit
+- **[MS Municipalities Graph](https://github.com/HeitorRomero/Maps)** *(coursework, Teoria dos Grafos)* — Python + NetworkX app that reads a distance matrix from CSV, runs Dijkstra's algorithm to find the shortest path between municipalities in Mato Grosso do Sul, and visualizes the result with matplotlib
 
 ---
 
@@ -67,9 +67,9 @@ Estudei a viabilidade do uso de Redes Inteligentes em comunidades rurais, invest
 
 ## 🚧 No que estou trabalhando
 
-- **IDVerde** — App em Flutter para identificação de espécies de plantas (projeto de extensão da UFGD, coordenado pela Profa. Priscila Marques Kai)
-- **Simulação de Qubit** — Projeto em Python explorando fundamentos de computação quântica, com uma classe Qubit própria e Qiskit
-- **Grafo de Municípios de MS** *(trabalho de disciplina, Teoria dos Grafos)* — Aplicação em Python + NetworkX que lê uma matriz de distâncias via CSV, aplica o algoritmo de Dijkstra para achar o menor caminho entre municípios de Mato Grosso do Sul e visualiza o resultado com matplotlib
+- **IDVerde** *(repositório privado — projeto de extensão UFGD)* — App em Flutter para identificação de espécies de plantas (coordenado pela Profa. Priscila Marques Kai)
+- **[Simulação de Qubit](https://github.com/HeitorRomero/Qubit)** — Projeto em Python explorando fundamentos de computação quântica, com uma classe Qubit própria e Qiskit
+- **[Grafo de Municípios de MS](https://github.com/HeitorRomero/Maps)** *(trabalho de disciplina, Teoria dos Grafos)* — Aplicação em Python + NetworkX que lê uma matriz de distâncias via CSV, aplica o algoritmo de Dijkstra para achar o menor caminho entre municípios de Mato Grosso do Sul e visualiza o resultado com matplotlib
 
 ---
 
